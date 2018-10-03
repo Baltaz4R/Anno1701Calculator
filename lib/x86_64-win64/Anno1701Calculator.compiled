@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<CONFIG>
+  <Compiler Value="C:\Language\Lazarus\fpc\2.6.1\bin\x86_64-win64\fpc.exe" Date="1113010476"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -vewnhi &quot;-FiC:\Users\BaltazaR\My Programs\Anno 1701 Calculator\lib\x86_64-win64&quot; -FuC:\Language\Lazarus\lcl\units\x86_64-win64\win32 -FuC:\Language\Lazarus\lcl\units\x86_64-win64 -FuC:\Language\Lazarus\components\lazutils\lib\x86_64-win64 -FuC:\Language\Lazarus\packager\units\x86_64-win64 &quot;-FuC:\Users\BaltazaR\My Programs\Anno 1701 Calculator\&quot; &quot;-FUC:\Users\BaltazaR\My Programs\Anno 1701 Calculator\lib\x86_64-win64\&quot; -l -dLCL -dLCLwin32 Anno1701Calculator.lpr"/>
+</CONFIG>
